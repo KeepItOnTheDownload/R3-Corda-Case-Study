@@ -148,7 +148,6 @@ https://www.ethereum.org
 Cody 2017, Nakamoto 2018
 Intoducing r3 corda:a distributed ledger designed for financial services" richard gendal 
 https://www.finra.org/sites/default/files/Blockchain-R3-Comment.pdf
-
 https://medium.com/swlh/silicon-valley-spotlight-r3-corda-2b9ced92a646
 https://www.capgemini.com/es-es/wp-content/uploads/sites/16/2019/06/World-FinTech-Report-WFTR-2019_Web.pdf
 Wright, Aaron and De Filippi, Primavera, Decentralized Blockchain Technology and the Rise of
