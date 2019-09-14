@@ -118,6 +118,7 @@ Corda has shown an exponential amount of growth as they continue to meet stakeho
 
 # References
 https://www.corda.net/content/corda-platform-whitepaper.pdf
+https://www.corda.net/content/corda-technical-whitepaper.pdf
 ww.r3.com/wp-content/uploads/2018/07/
 US_10_CryptoBLK_CS_JULY5_final_v3.pdf
 https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape
