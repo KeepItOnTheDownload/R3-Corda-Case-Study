@@ -117,7 +117,7 @@ Corda continues to do mass amounts of research through it’s working groups and
 Corda has shown an exponential amount of growth as they continue to meet stakeholder and shareholder expectations. The success of Corda will depend greatly on the market peer participants, the evolution of regulation and its ability to meet market demands. However, as Brown alluded to above, if companies build different solutions on competing platforms, they could be creating more problems than they are solving. It would be better that platforms find a way to increase interoperability between network flow and reach, so each company can utilize the specific attributes each software offers that best matches the application requirements. Thus it is recommended that R3 keep to the claim that they will offer such interoperability, and not create more complex and costly systems. If they are able to offer true interoperability and consensus between distrusting parties, they are poised to grow right alongside the evolution. 
 
 # References
-
+https://www.corda.net/content/corda-platform-whitepaper.pdf
 ww.r3.com/wp-content/uploads/2018/07/
 US_10_CryptoBLK_CS_JULY5_final_v3.pdf
 https://www.mckinsey.com/industries/financial-services/our-insights/banking-matters/scanning-the-fintech-landscape
@@ -143,10 +143,7 @@ https://www.r3.com/wp-content/uploads/2019/06/DigitalAssets.Transforming.Capital
 Clack, Bakshi, Braine. Smart Contract Templates: foundations, design land- scape and research directions. http://arxiv.org/abs/1608.00771, 2016. 
 https://blockgeeks.com/guides/what-is-ethereum/. 
 https://themerkle.com/smart-contracts-ethereum-vs-lisk-vs-bitcoin/"
-https://www.ethereum.org
-(Wright and Fillipi 2015). 
-Cody 2017, Nakamoto 2018
-Intoducing r3 corda:a distributed ledger designed for financial services" richard gendal 
+https://www.ethereum.org 
 https://www.finra.org/sites/default/files/Blockchain-R3-Comment.pdf
 https://medium.com/swlh/silicon-valley-spotlight-r3-corda-2b9ced92a646
 https://www.capgemini.com/es-es/wp-content/uploads/sites/16/2019/06/World-FinTech-Report-WFTR-2019_Web.pdf
